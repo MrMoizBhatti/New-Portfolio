@@ -81,7 +81,7 @@ const Navbar = () => {
     { href: '/projects', label: 'Projects', id: 'projects' },
     { href: '/blog', label: 'Blog', id: 'blog' },
     { href: '/contact', label: 'Contact', id: 'contact' },
-    { href: '/publications', label: 'Publications', id: 'publics' },
+    { href: '/members', label: 'Members', id: 'members' },
   ];
 
   return (
