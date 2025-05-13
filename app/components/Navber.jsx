@@ -80,8 +80,8 @@ const Navbar = () => {
     { href: '/research', label: 'Research', id: 'research' },
     { href: '/projects', label: 'Projects', id: 'projects' },
     { href: '/blog', label: 'Blog', id: 'blog' },
-    { href: '/contact', label: 'Contact', id: 'contact' },
     { href: '/members', label: 'Members', id: 'members' },
+    { href: '/contact', label: 'Contact', id: 'contact' },
   ];
 
   return (
