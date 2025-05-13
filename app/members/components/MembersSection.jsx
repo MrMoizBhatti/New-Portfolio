@@ -1,7 +1,7 @@
 import React from 'react';
-import Section from '../../UI/Section';
+import Section from '@/app/ui/Section';
 import { Linkedin, Github, Twitter, Globe } from 'lucide-react';
-import membersData from '../../utils/membersData';
+import membersData from '@/app/utils/membersData';
 
 const MembersSection = () => {
   return (
